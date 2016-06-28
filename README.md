@@ -1,5 +1,5 @@
-SEBLOD-websites
-===============
+SEBLOD.com
+==========
 
 This repository is for reporting issues with the SEBLOD.com websites only.
 
